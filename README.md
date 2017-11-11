@@ -1,3 +1,3 @@
 # gameTimer
 
-find out the first number and click sequently until 50 and finish
+find first number and click next number until 50 and finish
